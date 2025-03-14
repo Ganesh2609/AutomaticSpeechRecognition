@@ -139,7 +139,6 @@ def get_data_loaders(root: str, batch_size: int = 16, num_workers: int = 12, pre
             - test_loader (DataLoader): DataLoader for test data.
     """
     data = TamilSpeechDataset(root)
-    data = torch.utils.data.Subset(data, list(range(100)))
     torch.manual_seed(42)
     train_size = int(0.9 * len(data))
     train_data, test_data = torch.utils.data.random_split(data, [train_size, len(data) - train_size])
