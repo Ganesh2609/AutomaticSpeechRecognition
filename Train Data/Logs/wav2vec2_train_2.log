@@ -1,0 +1,57 @@
+2025-03-14 21:17:17,153 - INFO - Using device: cuda
+2025-03-14 21:17:17,775 - INFO - Starting training for 32 epochs from scratch
+2025-03-14 21:28:43,486 - INFO - Training loss for epoch 1: 0.7668933446705342
+2025-03-14 21:31:26,302 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/wav2vec2 train 2\best_model.pth
+2025-03-14 21:31:26,302 - INFO - Testing loss for epoch 1: 0.5150177133083343
+2025-03-14 21:31:26,302 - INFO - Testing word error rate for epoch 1: 0.7320406436920166
+
+2025-03-14 21:31:26,302 - INFO - Testing character error rate for epoch 1: 0.1452307105064392
+
+2025-03-14 21:31:41,732 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/wav2vec2 train 2\model_epoch_1.pth
+2025-03-14 21:42:46,203 - INFO - Training loss for epoch 2: 0.6578211483359336
+2025-03-14 21:44:03,218 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/wav2vec2 train 2\best_model.pth
+2025-03-14 21:44:03,218 - INFO - Testing loss for epoch 2: 0.47795468002557756
+2025-03-14 21:44:03,219 - INFO - Testing word error rate for epoch 2: 0.6988247632980347
+
+2025-03-14 21:44:03,219 - INFO - Testing character error rate for epoch 2: 0.13867497444152832
+
+2025-03-14 21:44:06,437 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/wav2vec2 train 2\model_epoch_2.pth
+2025-03-14 21:55:06,169 - INFO - Training loss for epoch 3: 0.6115770231187344
+2025-03-14 21:56:50,566 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/wav2vec2 train 2\best_model.pth
+2025-03-14 21:56:50,566 - INFO - Testing loss for epoch 3: 0.45749775886535643
+2025-03-14 21:56:50,566 - INFO - Testing word error rate for epoch 3: 0.6869277358055115
+
+2025-03-14 21:56:50,567 - INFO - Testing character error rate for epoch 3: 0.1334729641675949
+
+2025-03-14 21:56:54,114 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/wav2vec2 train 2\model_epoch_3.pth
+2025-03-14 22:08:11,431 - INFO - Training loss for epoch 4: 0.5917781792581082
+2025-03-14 22:09:29,166 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/wav2vec2 train 2\best_model.pth
+2025-03-14 22:09:29,167 - INFO - Testing loss for epoch 4: 0.43918163001537325
+2025-03-14 22:09:29,167 - INFO - Testing word error rate for epoch 4: 0.6909653544425964
+
+2025-03-14 22:09:29,167 - INFO - Testing character error rate for epoch 4: 0.13307225704193115
+
+2025-03-14 22:09:32,287 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/wav2vec2 train 2\model_epoch_4.pth
+2025-03-14 22:20:19,859 - INFO - Training loss for epoch 5: 0.5696542413532734
+2025-03-14 22:21:41,849 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/wav2vec2 train 2\best_model.pth
+2025-03-14 22:21:41,849 - INFO - Testing loss for epoch 5: 0.42876130640506743
+2025-03-14 22:21:41,850 - INFO - Testing word error rate for epoch 5: 0.6771033406257629
+
+2025-03-14 22:21:41,850 - INFO - Testing character error rate for epoch 5: 0.12985830008983612
+
+2025-03-14 22:21:44,992 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/wav2vec2 train 2\model_epoch_5.pth
+2025-03-14 22:32:57,615 - INFO - Training loss for epoch 6: 0.5446125610917807
+2025-03-14 22:34:14,099 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/wav2vec2 train 2\best_model.pth
+2025-03-14 22:34:14,100 - INFO - Testing loss for epoch 6: 0.41899427473545076
+2025-03-14 22:34:14,100 - INFO - Testing word error rate for epoch 6: 0.6589455604553223
+
+2025-03-14 22:34:14,100 - INFO - Testing character error rate for epoch 6: 0.1256510317325592
+
+2025-03-14 22:34:43,541 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/wav2vec2 train 2\model_epoch_6.pth
+2025-03-14 22:45:14,316 - INFO - Training loss for epoch 7: 0.513612497150898
+2025-03-14 22:46:20,034 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/wav2vec2 train 2\best_model.pth
+2025-03-14 22:46:20,035 - INFO - Testing loss for epoch 7: 0.41350094705820084
+2025-03-14 22:46:20,035 - INFO - Testing word error rate for epoch 7: 0.6565481424331665
+
+2025-03-14 22:46:20,035 - INFO - Testing character error rate for epoch 7: 0.12655827403068542
+

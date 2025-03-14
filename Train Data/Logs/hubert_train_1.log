@@ -1,0 +1,126 @@
+2025-03-15 00:33:14,144 - INFO - Using device: cuda
+2025-03-15 00:33:44,663 - INFO - Using device: cuda
+2025-03-15 00:34:09,991 - INFO - Using device: cuda
+2025-03-15 00:34:10,584 - INFO - Starting training for 16 epochs from scratch
+2025-03-15 00:35:32,402 - INFO - Training loss for epoch 1: 1.0763218773735894
+2025-03-15 00:36:39,237 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\best_model.pth
+2025-03-15 00:36:39,237 - INFO - Testing loss for epoch 1: 0.7289884030818939
+2025-03-15 00:36:39,237 - INFO - Testing word error rate for epoch 1: 0.7951515913009644
+
+2025-03-15 00:36:39,238 - INFO - Testing character error rate for epoch 1: 0.16676202416419983
+
+2025-03-15 00:37:08,653 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_1.pth
+2025-03-15 00:37:29,132 - INFO - Training loss for epoch 2: 0.8947798179255592
+2025-03-15 00:37:37,293 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\best_model.pth
+2025-03-15 00:37:37,294 - INFO - Testing loss for epoch 2: 0.6136759698390961
+2025-03-15 00:37:37,294 - INFO - Testing word error rate for epoch 2: 0.7893772721290588
+
+2025-03-15 00:37:37,294 - INFO - Testing character error rate for epoch 2: 0.16011878848075867
+
+2025-03-15 00:37:40,844 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_2.pth
+2025-03-15 00:38:01,818 - INFO - Training loss for epoch 3: 0.8343798975149791
+2025-03-15 00:38:21,592 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\best_model.pth
+2025-03-15 00:38:21,592 - INFO - Testing loss for epoch 3: 0.5610607087612152
+2025-03-15 00:38:21,592 - INFO - Testing word error rate for epoch 3: 0.7111304998397827
+
+2025-03-15 00:38:21,593 - INFO - Testing character error rate for epoch 3: 0.15098506212234497
+
+2025-03-15 00:38:50,595 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_3.pth
+2025-03-15 00:39:18,046 - INFO - Training loss for epoch 4: 0.7706472714742024
+2025-03-15 00:39:27,141 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\best_model.pth
+2025-03-15 00:39:27,141 - INFO - Testing loss for epoch 4: 0.5475860953330993
+2025-03-15 00:39:27,141 - INFO - Testing word error rate for epoch 4: 0.6792207956314087
+
+2025-03-15 00:39:27,141 - INFO - Testing character error rate for epoch 4: 0.15685304999351501
+
+2025-03-15 00:39:32,185 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_4.pth
+2025-03-15 00:39:55,230 - INFO - Training loss for epoch 5: 0.7303769747416179
+2025-03-15 00:40:08,428 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\best_model.pth
+2025-03-15 00:40:08,428 - INFO - Testing loss for epoch 5: 0.5349313199520112
+2025-03-15 00:40:08,428 - INFO - Testing word error rate for epoch 5: 0.6822510957717896
+
+2025-03-15 00:40:08,429 - INFO - Testing character error rate for epoch 5: 0.14676301181316376
+
+2025-03-15 00:40:37,032 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_5.pth
+2025-03-15 00:41:00,230 - INFO - Training loss for epoch 6: 0.7417022168636322
+2025-03-15 00:41:09,322 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\best_model.pth
+2025-03-15 00:41:09,322 - INFO - Testing loss for epoch 6: 0.5256474792957306
+2025-03-15 00:41:09,322 - INFO - Testing word error rate for epoch 6: 0.7098037600517273
+
+2025-03-15 00:41:09,322 - INFO - Testing character error rate for epoch 6: 0.14859911799430847
+
+2025-03-15 00:41:13,754 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_6.pth
+2025-03-15 00:41:36,989 - INFO - Training loss for epoch 7: 0.6750846044884787
+2025-03-15 00:41:41,945 - INFO - Testing loss for epoch 7: 0.5260932862758636
+2025-03-15 00:41:41,946 - INFO - Testing word error rate for epoch 7: 0.7175188064575195
+
+2025-03-15 00:41:41,946 - INFO - Testing character error rate for epoch 7: 0.13972890377044678
+
+2025-03-15 00:41:45,195 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_7.pth
+2025-03-15 00:42:07,951 - INFO - Training loss for epoch 8: 0.6934180935223897
+2025-03-15 00:42:37,839 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\best_model.pth
+2025-03-15 00:42:37,839 - INFO - Testing loss for epoch 8: 0.5160791218280792
+2025-03-15 00:42:37,839 - INFO - Testing word error rate for epoch 8: 0.739047646522522
+
+2025-03-15 00:42:37,840 - INFO - Testing character error rate for epoch 8: 0.1420399695634842
+
+2025-03-15 00:42:45,767 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_8.pth
+2025-03-15 00:43:13,336 - INFO - Training loss for epoch 9: 0.6479581455389659
+2025-03-15 00:43:26,507 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\best_model.pth
+2025-03-15 00:43:26,507 - INFO - Testing loss for epoch 9: 0.5131608247756958
+2025-03-15 00:43:26,507 - INFO - Testing word error rate for epoch 9: 0.703792154788971
+
+2025-03-15 00:43:26,507 - INFO - Testing character error rate for epoch 9: 0.13919082283973694
+
+2025-03-15 00:43:54,329 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_9.pth
+2025-03-15 00:44:17,339 - INFO - Training loss for epoch 10: 0.6486880126926634
+2025-03-15 00:44:40,436 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\best_model.pth
+2025-03-15 00:44:40,436 - INFO - Testing loss for epoch 10: 0.5120358973741531
+2025-03-15 00:44:40,436 - INFO - Testing word error rate for epoch 10: 0.7135065197944641
+
+2025-03-15 00:44:40,436 - INFO - Testing character error rate for epoch 10: 0.14371146261692047
+
+2025-03-15 00:44:54,074 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_10.pth
+2025-03-15 00:45:18,106 - INFO - Training loss for epoch 11: 0.6009818249278598
+2025-03-15 00:45:44,778 - INFO - Best model saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\best_model.pth
+2025-03-15 00:45:44,778 - INFO - Testing loss for epoch 11: 0.5081771194934845
+2025-03-15 00:45:44,778 - INFO - Testing word error rate for epoch 11: 0.7363736033439636
+
+2025-03-15 00:45:44,779 - INFO - Testing character error rate for epoch 11: 0.14447951316833496
+
+2025-03-15 00:45:54,424 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_11.pth
+2025-03-15 00:46:20,067 - INFO - Training loss for epoch 12: 0.5910711665948232
+2025-03-15 00:46:25,389 - INFO - Testing loss for epoch 12: 0.5133379429578782
+2025-03-15 00:46:25,389 - INFO - Testing word error rate for epoch 12: 0.7665114998817444
+
+2025-03-15 00:46:25,389 - INFO - Testing character error rate for epoch 12: 0.13845841586589813
+
+2025-03-15 00:46:30,064 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_12.pth
+2025-03-15 00:46:53,257 - INFO - Training loss for epoch 13: 0.5870815108219782
+2025-03-15 00:46:57,943 - INFO - Testing loss for epoch 13: 0.5156064867973328
+2025-03-15 00:46:57,943 - INFO - Testing word error rate for epoch 13: 0.7125862836837769
+
+2025-03-15 00:46:57,943 - INFO - Testing character error rate for epoch 13: 0.14121848344802856
+
+2025-03-15 00:47:26,177 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_13.pth
+2025-03-15 00:47:50,388 - INFO - Training loss for epoch 14: 0.563730917374293
+2025-03-15 00:47:55,186 - INFO - Testing loss for epoch 14: 0.5124537706375122
+2025-03-15 00:47:55,186 - INFO - Testing word error rate for epoch 14: 0.735897421836853
+
+2025-03-15 00:47:55,186 - INFO - Testing character error rate for epoch 14: 0.14661414921283722
+
+2025-03-15 00:48:23,492 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_14.pth
+2025-03-15 00:48:44,378 - INFO - Training loss for epoch 15: 0.5202730847729578
+2025-03-15 00:48:48,845 - INFO - Testing loss for epoch 15: 0.5112480223178864
+2025-03-15 00:48:48,846 - INFO - Testing word error rate for epoch 15: 0.7451674342155457
+
+2025-03-15 00:48:48,846 - INFO - Testing character error rate for epoch 15: 0.1481855809688568
+
+2025-03-15 00:49:10,368 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_15.pth
+2025-03-15 00:49:31,409 - INFO - Training loss for epoch 16: 0.5933757298522525
+2025-03-15 00:49:36,186 - INFO - Testing loss for epoch 16: 0.5099821150302887
+2025-03-15 00:49:36,186 - INFO - Testing word error rate for epoch 16: 0.7647618651390076
+
+2025-03-15 00:49:36,187 - INFO - Testing character error rate for epoch 16: 0.13875700533390045
+
+2025-03-15 00:49:46,324 - INFO - Checkpoint saved to E:/Amrita/Subjects/Sem 6/Speech Processing/Tutorials/6/Question 1/Train Data/Checkpoints/hubert train 1\model_epoch_16.pth
