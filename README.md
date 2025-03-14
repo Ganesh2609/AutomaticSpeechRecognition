@@ -1,6 +1,6 @@
 # Speech Recognition with HuBERT and Wav2Vec2  
 
-This project focuses on fine-tuning **HuBERT** and **Wav2Vec2** models for Tamil and Kannada speech recognition using CTC loss. The training process involves processing speech datasets, optimizing model performance, and logging results for analysis.  
+This project focuses on fine-tuning **HuBERT** and **Wav2Vec2** models for Tamil and Kannada speech recognition using CTC loss. The training process involves processing speech datasets, optimizing model performance, and logging results for analysis. OpenAI's Whisper model was also fine tuned on the common voice tamil dataset.
 
 ## Results  
 
